@@ -6,5 +6,7 @@
 
 ![singleResponability.png](singleResponability.png)
 
+![singleResponability.png](singleResponability2.png)
+
 ## Open/closed priciple
 * [Open/closed](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
